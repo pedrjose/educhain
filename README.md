@@ -57,7 +57,7 @@ WALLET_ADDRESS=0x46bE5659009505d2709EFE28AF55eAA2107Ee205
 INFURA_URL=https://sepolia.infura.io/v3/2978cbca49dc46b6a07d51aeace05440
 CONTRACT_ADDRESS=0x4a634Dd47e29aAd60F4b51bbB814050d920164e2
 ```
-**OBS: as credenciais acima estão sendo disponibilizados apenas com o intuito de facilitar a avaliação do projeto. No caso de um ambiente real de produção, esses dados são seriam disponibilizados!**
+**OBS: as credenciais acima estão sendo disponibilizadas apenas com o intuito de facilitar a avaliação do projeto. No caso de um ambiente real de produção, esses dados não seriam disponibilizados!**
 
 ### 2.3 Clint
-O Client é criado é só uma forma mais dinâmica que simula um ambiente de usuário para emitir e verificar os dados. Além do mais, foi feito integração com a **Etherscan**, para que o certificado seja validado diretamente por lá, e também funcionalidades como download do certificado em PDF.
+O Client criado é uma forma mais dinâmica de simular um ambiente de usuário, para emitir e verificar os dados do certificado. Além do mais, foi feita integração com a **Etherscan**, para que o certificado seja validado diretamente por lá, e também funcionalidades como download do certificado em PDF.
