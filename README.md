@@ -18,13 +18,21 @@ EduChain é uma proposta de plataforma que utiliza blockchain em sua composiçã
 
 A instalação da API e do Client são feitos através dos seguintes repositórios:
 
+- Backend:
 ```bash
-git clone https://github.com/pedrjose/educhain-api/tree/educhain-develop
-git clone https://github.com/luizamorim2/educhain-front/commits/main/
+git clone https://github.com/pedrjose/educhain-api.git
+
+cd educhain-api
+git checkout educhain-develop
+
+npm i
+npm run dev
 ```
 
-Clonando os dois repositórios, basta utilizar, em cada um, os comandos a seguir para colocar para rodar:
+- Frontend:
 ```bash
+git clone https://github.com/luizamorim2/educhain-front
+
 npm i
 npm run dev
 ```
