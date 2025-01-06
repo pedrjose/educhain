@@ -33,6 +33,8 @@ npm run dev
 ```bash
 git clone https://github.com/luizamorim2/educhain-front
 
+cd educhain-front
+
 npm i
 npm run dev
 ```
